@@ -1,2 +1,2 @@
-# example
-learning and experimenting
+# Github-Examples
+A repo containing GitHub for programmatic examples
